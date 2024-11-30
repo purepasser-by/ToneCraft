@@ -1,0 +1,23 @@
+{
+    "canto_hmn_gen": {
+        "file_name" : "canto_hmn_gen.json"
+    },
+    "canto_hmn_gen_kr" : {
+        "file_name" : "canto_hmn_gen_kr.json"
+    },
+    "canto_hmn_continue_rhyme" : {
+        "file_name" : "canto_hmn_continue_rhyme.json"
+    },
+    "canto_hmn_continue_rhyme_kr" : {
+        "file_name" : "canto_hmn_continue_rhyme_kr.json"
+    },
+    "zh_hmn_continue" : {
+        "file_name" : "zh_hmn_continue.json"
+    },
+    "zh_hmn_continue_kr" : {
+        "file_name" : "zh_hmn_continue_kr.json"
+    },
+    "gen_train":{
+        "file_name": "train_2M_CN.json"
+    }
+}
